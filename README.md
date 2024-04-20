@@ -1,2 +1,2 @@
-# patient-management
+# zeroslope-react
 Created with CodeSandbox
